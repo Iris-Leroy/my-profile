@@ -1,0 +1,50 @@
+body{
+	background: #B4C5F8;
+	padding: 32px;
+}
+#ma-photo{
+	width:  150px;
+	border-radius: 50%;
+	border: 2px#B4C5F8;
+	text-shadow: 3px;
+}
+.image-bordered {
+	border: 5px #A4B3E5;
+}
+.cadre {
+	background: white;
+	padding: 0,99px;
+	border-radius: 8px;
+	box-shadow: 5px 5px 8px #53618B;
+}
+.end{
+	text-align: center;
+}
+#infos {
+	text-align: center;
+}
+
+#alignement{
+	text-shadow: 5px;
+}
+h1{
+	color: orangered;
+	font-family: roboto;
+	font-size: 35;
+}
+
+h2{
+	color: rgb(120, 120, 120);
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color: orangered;
+}
+button{
+	border color: orangered;
+	font-family: roboto;
+	font-size: 17px;
+}
